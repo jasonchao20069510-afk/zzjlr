@@ -1,0 +1,8 @@
+{
+  "name": "LINE Rangers",
+  "description": "LINE Rangers 遊戲庫存清單整理與選號上架管理系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
